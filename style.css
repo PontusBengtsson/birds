@@ -1,0 +1,12 @@
+.Head {
+    background-color: aqua;
+}
+
+.eyes {
+    background-color: blueviolet;
+}
+.Body {
+    background-color: brown;
+    display: flex;
+    justify-content: space-evenly;
+}
